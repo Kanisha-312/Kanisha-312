@@ -20,7 +20,7 @@ I build end-to-end ML systems—from data + modeling to evaluation and clean, re
 - Multilingual healthcare chatbot using **BLOOMZ-3B + LoRA fine-tuning**
 - **FAISS retrieval + MiniLM embeddings** over WHO/ADA guidelines
 - Evaluated with **BERTScore-F1 ~0.78**; safety-aware response design  
-➡️ Repo: (https://github.com/Kanisha-312/multilingual-diabetes-chatbot) • Demo: <ADD_DEMO_LINK>
+➡️ Repo: (https://github.com/Kanisha-312/multilingual-diabetes-chatbot)
 
 #### 📡 Reinforcement Learning for RFID Reader Collision Avoidance
 - Custom RL environment with stochastic interference + traffic maps
@@ -28,10 +28,9 @@ I build end-to-end ML systems—from data + modeling to evaluation and clean, re
 - Analyzed convergence, reward trends, and robustness in noisy settings  
 ➡️ Repo: (https://github.com/Kanisha-312/RL-rfid-collision-avoidance)
 
-#### 🇩🇪 German → English Neural Machine Translation
+#### 🇩🇪 [German → English Neural Machine Translation](https://github.com/Kanisha-312/german-english-language-translation)
 - BiLSTM + Luong Attention and Transformer baseline
 - **BLEU 34.53** on Europarl with training optimizations (label smoothing, clipping, etc.)  
-➡️ Repo: (https://github.com/Kanisha-312/german-english-language-translation)
 
 ---
 
