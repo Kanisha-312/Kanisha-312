@@ -4,7 +4,7 @@ AI/ML Engineer (MS in AI) focused on deep learning and applied AI systems, with 
 I build end-to-end ML systems—from data + modeling to evaluation and clean, reproducible experiments.
 
 📍 Buffalo, NY • Open to AI/ML Engineer / NLP / Applied ML roles (2026)  
-🔗 LinkedIn: <www.linkedin.com/in/kanisharaja> • Email: kanisha.career@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/kanisharaja • Email: kanisha.career@gmail.com
 
 ---
 
