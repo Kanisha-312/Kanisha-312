@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kanisha Raja!
 
-🎓 **AI Engineer | MS in Artificial Intelligence**  
+## 🎓 **AI Engineer | MS in Artificial Intelligence**  
 
 I’m a recent graduate from the University at Buffalo with a strong focus on applied AI and machine learning systems.
 
@@ -10,7 +10,7 @@ I’m interested in building AI systems that are not just accurate — but relia
 
 📍 Buffalo, NY 
 
-🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
+## 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
 
 ---
 
