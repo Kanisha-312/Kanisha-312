@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Kanisha Raja!
+## Hi there 👋 I'm Kanisha Raja!
 
-## 🎓 **AI Engineer | MS in Artificial Intelligence**  
+#### 🎓 **AI Engineer | MS in Artificial Intelligence**  
 
 I’m a recent graduate from the University at Buffalo with a strong focus on applied AI and machine learning systems.
 
@@ -10,9 +10,8 @@ I’m interested in building AI systems that are not just accurate — but relia
 
 📍 Buffalo, NY 
 
-## 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
+ 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
 
----
 
 ## ⭐ Featured Projects
 
@@ -35,7 +34,6 @@ I’m interested in building AI systems that are not just accurate — but relia
 - BiLSTM with Luong Attention & Transformer baseline model
 - BLEU 34.53 on Europarl with training optimizations (label smoothing, clipping, etc.)  
 
----
 
 ## 🔧 Tech Stack
 - **Languages:** Python, C/C++, SQL  
@@ -45,7 +43,6 @@ I’m interested in building AI systems that are not just accurate — but relia
 - **Data/Systems:** Pandas, NumPy, Apache Spark, Hadoop (HDFS), Docker, ML Pipelines 
 - **Tools:** Git/GitHub, Jupyter/Colab, VS Code, Kaggle
 
----
 
 ## 🚀 What I’m looking for
 I’m looking for roles where I can work on:
