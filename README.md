@@ -1,20 +1,22 @@
 ## Hi there 👋 I'm Kanisha Raja!
 
-🎓 **AI Engineer | MS in Artificial Intelligence** 
+🎓 **AI Engineer | MS in Artificial Intelligence**  
+
+I’m a recent graduate from the University at Buffalo with a strong focus on applied AI and machine learning systems.
 
 I enjoy building end-to-end ML systems spanning data pipelines, modeling, evaluation, uncertainty analysis, and reproducible experimentation.
 
-Interested in building AI systems that are not just accurate — but reliable, interpretable, and human-aware.
+I’m interested in building AI systems that are not just accurate — but reliable, interpretable, and human-aware.
 
 📍 Buffalo, NY 
 
-🔍 Open to **AI Engineer / ML Engineer / Applied ML roles** (Immediate)
+🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
 
 ---
 
 ### ⭐ Featured Projects
 
-#### [Uncertainty-Aware Bayesian Lung Segmentation (Clinical Trust)](https://github.com/Kanisha-312/uncertainity_aware_bayesian_lung_segmentation)
+#### [Uncertainty-Aware Bayesian Lung Segmentation (Clinical Trust)](https://github.com/Kanisha-312/uncertainty_aware_bayesian_lung_segmentation)
 - Bayesian U-Net with Monte Carlo Dropout + aleatoric perturbation
 - AvU (Accuracy vs Uncertainty) loss to align uncertainty with real errors  
 - Outputs interpretable uncertainty maps to support safer clinical decision-making  
@@ -37,31 +39,29 @@ Interested in building AI systems that are not just accurate — but reliable, i
 
 ### 🔧 Tech Stack
 - **Languages:** Python, C/C++, SQL  
-- **ML/DL Frameworks** PyTorch, TensorFlow, scikit-learn, XGBoost  
-- **LLMs & GenAI** Hugging Face Transformers, RAG, FAISS, Sentence Transformers, LoRA / PEFT, Prompt Engineering  
+- **ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn, XGBoost  
+- **LLMs & GenAI:** Hugging Face Transformers, RAG, FAISS, Sentence Transformers, LoRA / PEFT, Prompt Engineering  
 - **RL:** OpenAI Gym, DQN/Double DQN, A2C (coursework + experiments)  
 - **Data/Systems:** Pandas, NumPy, Apache Spark, Hadoop (HDFS), Docker, ML Pipelines 
 - **Tools:** Git/GitHub, Jupyter/Colab, VS Code, Kaggle
 
-
 ---
 
-### 💬 What I’m looking for
+### 🚀 What I’m looking for
 I’m looking for roles where I can work on:
 - LLM applications (RAG, evaluation, safety)
 - Applied ML systems (training + inference + experimentation)
 - Healthcare / trustworthy ML (uncertainty, reliability)
 
-🤝 **Open to Collaborate On**
-Applied ML / AI systems with real-world impact
-LLM + RAG pipelines
-Research-inspired but production-aligned ML work
+🤝 **Open to Collaborate on**
+- Applied ML / AI systems with real-world impact
+- LLM + RAG pipelines
+- Research-inspired but production-aligned ML work
 
 If you’re hiring or want to collaborate, feel free to reach out!
 
 🌐 **Socials:**
-
-🔗 [LinkedIn](www.linkedin.com/in/kanisharaja) 🔗 [Resume]()
-
+- [LinkedIn](https://www.linkedin.com/in/kanisharaja)
 📧 Email: kanisha.career@gmail.com
+- [Resume](Kanisha_Raja_Resume.pdf)
 
