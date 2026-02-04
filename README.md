@@ -3,8 +3,11 @@
 🎓 **AI Engineer | MS in Artificial Intelligence** with a strong foundation in **Deep learning, LLMs, and Applied AI systems**. I enjoy building end-to-end ML systems — from data and modeling to evaluation, uncertainty analysis, and reproducible experiments.
 
 📍 Buffalo, NY 
+
 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles** (Immediate)
+
 🔗 [LinkedIn](www.linkedin.com/in/kanisharaja) 🔗 [Resume]()
+
 📧 Email: kanisha.career@gmail.com
 
 ---
