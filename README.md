@@ -10,7 +10,7 @@ I’m interested in building AI systems that are not just accurate — but relia
 
 📍 Buffalo, NY 
 
- 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available Immediately**
+ 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available to start Immediately!**
 
 
 ## ⭐ Featured Projects
