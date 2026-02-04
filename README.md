@@ -4,10 +4,11 @@
 
 I enjoy building end-to-end ML systems spanning data pipelines, modeling, evaluation, uncertainty analysis, and reproducible experimentation.
 
+Interested in building AI systems that are not just accurate — but reliable, interpretable, and human-aware.
+
 📍 Buffalo, NY 
+
 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles** (Immediate)
-🔗 [LinkedIn](www.linkedin.com/in/kanisharaja) 🔗 [Resume]()
-📧 Email: kanisha.career@gmail.com
 
 ---
 
@@ -25,7 +26,7 @@ I enjoy building end-to-end ML systems spanning data pipelines, modeling, evalua
 
 #### [Reinforcement Learning for RFID Reader Collision Avoidance](https://github.com/Kanisha-312/RL-rfid-collision-avoidance)
 - Custom RL environment with stochastic interference + traffic maps
-- Benchmarked **SARSA vs DQN vs Double DQN** and reward-aware Q-learning
+- Benchmarked SARSA vs DQN vs Double DQN and reward-aware Q-learning
 - Analyzed convergence, reward trends, and robustness in noisy settings  
 
 #### [German → English Neural Machine Translation](https://github.com/Kanisha-312/german-english-language-translation)
@@ -34,13 +35,14 @@ I enjoy building end-to-end ML systems spanning data pipelines, modeling, evalua
 
 ---
 
-### 🔧 Tech 
-- **Languages:** Python, R, C/C++, SQL  
-- **ML/DL:** PyTorch, TensorFlow, scikit-learn, XGBoost  
-- **LLMs/NLP:** Hugging Face Transformers, RAG, embeddings, tokenization (BPE), evaluation (BLEU/BERTScore)  
+### 🔧 Tech Stack
+- **Languages:** Python, C/C++, SQL  
+- **ML/DL Frameworks** PyTorch, TensorFlow, scikit-learn, XGBoost  
+- **LLMs & GenAI** Hugging Face Transformers, RAG, FAISS, Sentence Transformers, LoRA / PEFT, Prompt Engineering  
 - **RL:** OpenAI Gym, DQN/Double DQN, A2C (coursework + experiments)  
-- **Data/Systems:** Pandas, NumPy, Spark/PySpark, Hadoop (HDFS), Docker  
-- **Tools:** Git/GitHub, Jupyter/Colab, VS Code
+- **Data/Systems:** Pandas, NumPy, Apache Spark, Hadoop (HDFS), Docker, ML Pipelines 
+- **Tools:** Git/GitHub, Jupyter/Colab, VS Code, Kaggle
+
 
 ---
 
@@ -50,5 +52,16 @@ I’m looking for roles where I can work on:
 - Applied ML systems (training + inference + experimentation)
 - Healthcare / trustworthy ML (uncertainty, reliability)
 
+🤝 **Open to Collaborate On**
+Applied ML / AI systems with real-world impact
+LLM + RAG pipelines
+Research-inspired but production-aligned ML work
+
 If you’re hiring or want to collaborate, feel free to reach out!
+
+🌐 **Socials:**
+
+🔗 [LinkedIn](www.linkedin.com/in/kanisharaja) 🔗 [Resume]()
+
+📧 Email: kanisha.career@gmail.com
 
