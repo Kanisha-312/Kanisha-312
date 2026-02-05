@@ -58,7 +58,7 @@ I’m looking for roles where I can work on:
 If you’re hiring or want to collaborate, feel free to reach out!
 
 ## 🌐 **Socials:**
-- **Linkedin:**[LinkedIn](https://www.linkedin.com/in/kanisharaja)
+- **Linkedin:** [LinkedIn](https://www.linkedin.com/in/kanisharaja)
 - **Email:** kanisha.career@gmail.com
 
 ***May your gradients vanish only when you want them to — until then, it’s just endless training!*** 😄
