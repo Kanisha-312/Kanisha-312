@@ -60,5 +60,5 @@ If you’re hiring or want to collaborate, feel free to reach out!
 ## 🌐 **Socials:**
 - Email: kanisha.career@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kanisharaja)
-- [Resume](Kanisha_Raja_Resume_.pdf)
+- [View my Resume](https://github.com/Kanisha-312/Kanisha-312/blob/39b29ffaeffd14261558b5c81fa7b41fdf2e9841/Kanisha%20Raja%20Resume%20.pdf)
 
