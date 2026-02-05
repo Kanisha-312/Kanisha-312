@@ -10,7 +10,7 @@ I’m interested in building AI systems that are not just accurate — but relia
 
 📍 Buffalo, NY  📄 [View my Resume](https://github.com/Kanisha-312/Kanisha-312/blob/39b29ffaeffd14261558b5c81fa7b41fdf2e9841/Kanisha%20Raja%20Resume%20.pdf)
 
- 🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available to start Immediately!**
+ 🔍 **Open to AI Engineer / ML Engineer / Applied ML roles — Available to start Immediately!**
 
 
 ## ⭐ Featured Projects ⭐
@@ -58,5 +58,7 @@ I’m looking for roles where I can work on:
 If you’re hiring or want to collaborate, feel free to reach out!
 
 ## 🌐 **Socials:**
-- [LinkedIn](https://www.linkedin.com/in/kanisharaja)
-- Email: kanisha.career@gmail.com
+- **Linkedin:**[LinkedIn](https://www.linkedin.com/in/kanisharaja)
+- **Email:** kanisha.career@gmail.com
+
+***May your gradients vanish only when you want them to — until then, it’s just endless training!*** 😄
