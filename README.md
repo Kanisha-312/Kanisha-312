@@ -2,7 +2,7 @@
 
 #### 🎓 **AI Engineer | MS in Artificial Intelligence**  
 
-#### 👋 About Me:
+#### 😄 About Me:
 
 I’m a recent graduate from the University at Buffalo with a strong focus on applied AI and machine learning systems.
 
@@ -59,7 +59,7 @@ I’m looking for roles where I can work on:
 
 If you’re hiring or want to collaborate, feel free to reach out!
 
-## 🌐 **Socials:**
+## 🌐 **Socials**
 - **Linkedin:** [LinkedIn](https://www.linkedin.com/in/kanisharaja)
 - **Email:** kanisha.career@gmail.com
 
