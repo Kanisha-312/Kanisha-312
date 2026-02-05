@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Kanisha Raja!
 
-### 🎓 **AI Engineer | MS in Artificial Intelligence**  
+#### 🎓 **AI Engineer | MS in Artificial Intelligence**  
 
-### 👋 About Me:
+#### 👋 About Me:
 
 I’m a recent graduate from the University at Buffalo with a strong focus on applied AI and machine learning systems.
 
