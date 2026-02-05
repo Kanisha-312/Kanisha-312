@@ -13,7 +13,7 @@ I’m interested in building AI systems that are not just accurate — but relia
  🔍 Open to **AI Engineer / ML Engineer / Applied ML roles — Available to start Immediately!**
 
 
-## ⭐ Featured Projects
+## ⭐ Featured Projects ⭐
 
 ### [Uncertainty-Aware Bayesian Lung Segmentation (Clinical Trust)](https://github.com/Kanisha-312/uncertainty_aware_bayesian_lung_segmentation)
 - Bayesian U-Net with Monte Carlo Dropout + aleatoric perturbation
