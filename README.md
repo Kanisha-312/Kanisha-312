@@ -58,7 +58,7 @@ I’m looking for roles where I can work on:
 If you’re hiring or want to collaborate, feel free to reach out!
 
 ## 🌐 **Socials:**
+- Email: kanisha.career@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kanisharaja)
-- 📧 Email: kanisha.career@gmail.com
 - [Resume](Kanisha_Raja_Resume.pdf)
 
