@@ -32,7 +32,7 @@ I’m interested in building AI systems that are not just accurate — but relia
 - Benchmarked SARSA vs DQN vs Double DQN and reward-aware Q-learning
 - Analyzed convergence, reward trends, and robustness in noisy settings  
 
-### 🧠 [German → English Neural Machine Translation](https://github.com/Kanisha-312/german-english-language-translation)
+### 🧠 [German to English Neural Machine Translation](https://github.com/Kanisha-312/german-english-language-translation)
 - BiLSTM with Luong Attention & Transformer baseline model
 - BLEU 34.53 on Europarl with training optimizations (label smoothing, clipping, etc.)  
 
