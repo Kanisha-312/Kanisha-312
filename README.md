@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kanisha Raja!
 
-### 🎓 **AI Engineer | MS in Artificial Intelligence**  
+### **AI Engineer | MS in Artificial Intelligence** 🎓
 
 #### 😄 About Me:
 
