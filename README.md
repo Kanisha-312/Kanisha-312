@@ -10,8 +10,9 @@ I enjoy building end-to-end ML systems spanning data pipelines, modeling, evalua
 
 I’m interested in building AI systems that are not just accurate — but reliable, interpretable, and human-aware.
 
-📄 [View My Resume](https://github.com/Kanisha-312/Kanisha-312/blob/39b29ffaeffd14261558b5c81fa7b41fdf2e9841/Kanisha%20Raja%20Resume%20.pdf)  📍 Buffalo, NY 
-💡 [View My Portfolio] (https://kanisha-312.github.io)
+📄 [View My Resume](https://github.com/Kanisha-312/Kanisha-312/blob/39b29ffaeffd14261558b5c81fa7b41fdf2e9841/Kanisha%20Raja%20Resume%20.pdf)
+💡 [View My Portfolio](https://kanisha-312.github.io)
+📍 Buffalo, NY 
 
  🔍 **Open to AI Engineer / ML Engineer / Applied ML roles — Available to start Immediately!**
 
